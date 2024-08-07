@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Melih Ekinci</h1>
-<h3 align="center">I'm Grade 1 at Kirklareli University.</h3>
+<h1 align="center">Hello 👋, I'm Melih Ekinci , I studying Software Engineering. </h1>
+<h3 align="center">I'm Grade 2 at Kirklareli University.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
